@@ -1,0 +1,166 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    background-color: aliceblue;
+    background-size: cover;
+
+}
+.login-box{
+    width: 30%;
+    position: absolute;
+    /* top: 5%; */
+    left: 50%;
+    transform: translate(-50%, 25%);
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+.login-box img{
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 50px;
+    padding: 13px 0;
+    
+}
+.textbox{
+    width: 100%;
+    overflow: hidden;
+    font-size: 20px;
+    padding: 8px 0;
+    margin: 8px 0;
+    border-bottom: 1px solid rgb(0, 0, 0);
+}
+.textbox i{
+    width: 26px;
+    float: left;
+    text-align: center;
+}
+.textbox input{
+    border: none;
+    outline: none;
+    background: none;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    width: 80%;
+    float: left;
+    margin: 0 10px;
+}
+.textbox1{
+    width: 100%;
+    overflow: hidden;
+    font-size: 20px;
+    padding: 8px 0;
+    margin: 8px 0;
+    border-bottom: 1px solid rgb(0, 0, 0);
+}
+.textbox1 i{
+    width: 26px;
+    float: left;
+    text-align: center;
+}
+.textbox1 input{
+    border: none;
+    outline: none;
+    background: none;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    width: 80%;
+    float: left;
+    margin: 0 10px;
+}
+.textbox2{
+    width: 100%;
+    overflow: hidden;
+    font-size: 20px;
+    padding: 8px 0;
+    margin: 8px 0 12px 0;
+    border-bottom: 1px solid rgb(0, 0, 0);
+}
+.textbox2 i{
+    width: 26px;
+    float: left;
+    text-align: center;
+}
+.textbox2 input{
+    border: none;
+    outline: none;
+    background: none;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    width: 80%;
+    float: left;
+    margin: 0 10px;
+}
+.outline{
+    
+    width: 50%;
+    background: rgb(255, 82, 1);
+    border: 2px  solid rgb(255, 82, 1);
+    color: rgb(255, 255, 255);
+    padding: 5px;
+}
+
+.outline2{
+    
+    width: 10%;
+    background: rgb(255, 82, 1);
+    border: 2px  solid rgb(255, 82, 1);
+    color: rgb(255, 255, 255);
+    padding: 5px;
+}
+
+.account-settings .user-profile {
+    margin: 0 0 1rem 0;
+    padding-bottom: 1rem;
+    text-align: center;
+}
+.account-settings .user-profile .user-avatar {
+    margin: 0 0 1rem 0;
+}
+.account-settings .user-profile .user-avatar img {
+    width: 90px;
+    height: 90px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    border-radius: 100px;
+}
+.account-settings .user-profile h5.user-name {
+    margin: 0 0 0.5rem 0;
+}
+.account-settings .user-profile h6.user-email {
+    margin: 0;
+    font-size: 0.8rem;
+    font-weight: 400;
+    color: #9fa8b9;
+}
+.account-settings .about {
+    margin: 2rem 0 0 0;
+    text-align: center;
+}
+.account-settings .about h5 {
+    margin: 0 0 15px 0;
+    color: #000000;
+}
+.account-settings .about p {
+    font-size: 0.825rem;
+}
+.form-control {
+    border: 1px solid #cfd1d8;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    font-size: .825rem;
+    background: #ffffff;
+    color: #2e323c;
+}
+
+.card2 {
+    background: #ffffff;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    border: 0;
+    margin-bottom: 1rem;
+}
+
+

@@ -1,0 +1,1 @@
+<h2>hello there</h2><?php /**PATH /home/u289533873/domains/yodep.org/public_html/resources/views/ContactMail.blade.php ENDPATH**/ ?>

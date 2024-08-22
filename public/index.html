@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>HTML Code Translator</title>
+    <meta charset="utf-8">
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        font-size: 16px;
+      }
+      textarea {
+        width: 100%;
+        height: 200px;
+        margin-bottom: 10px;
+      }
+      button {
+        background-color: #008CBA;
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+      #output {
+        width: 100%;
+        height: 200px;
+        border: 1px solid #ddd;
+        padding: 10px;
+        overflow: auto;
+      }
+    </style>
+    <script>
+      // Function to translate HTML code
+      function translateHTML() {
+        // Get the HTML code from the textarea
+        var htmlCode = document.getElementById("html-code").value;
+        
+        // Translate the HTML code into Spanish
+        var translatedCode = translateToSpanish(htmlCode);
+        
+        // Update the output area with the translated code
+        document.getElementById("output").innerHTML = translatedCode;
+      }
+      
+      // Function to translate HTML code into Spanish
+      function translateToSpanish(htmlCode) {
+        // Implement translation logic here
+        // This is just a placeholder example
+        return htmlCode.replace(/<body>/g, "<cuerpo>")
+                       .replace(/<\/body>/g, "</cuerpo>")
+                       .replace(/<p>/g, "<párrafo>")
+                       .replace(/<\/p>/g, "</párrafo>");
+      }
+    </script>
+  </head>
+  <body>
+    <h1>HTML Code Translator</h1>
+    
+    <textarea id="html-code"></textarea>
+    
+    <button onclick="translateHTML()">Translate to Spanish</button>
+    
+    <div id="output"></div>
+  </body>
+</html>
