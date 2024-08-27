@@ -162,5 +162,21 @@ body{
     border: 0;
     margin-bottom: 1rem;
 }
+.f-s-40 {
+    font-size: 40px; /* or any size you prefer */
+}
+
+.color-primary {
+    color: #007bff; /* replace with your preferred color */
+}
+
+.color-warning {
+    color: #ffc107; /* replace with your preferred color */
+}
+
+.color-danger {
+    color: #dc3545; /* replace with your preferred color */
+}
+
 
 

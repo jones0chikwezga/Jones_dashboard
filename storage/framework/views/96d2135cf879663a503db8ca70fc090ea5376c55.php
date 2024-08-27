@@ -1,1 +1,0 @@
-<?php /**PATH C:\Users\JONES\Documents\Laravel-Dashboard-main\resources\views/admin/volunteers/index.blade.php ENDPATH**/ ?>

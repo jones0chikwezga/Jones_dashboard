@@ -1,1 +1,0 @@
-<h2>hello there</h2><?php /**PATH E:\adra_larav\resources\views/ContactMail.blade.php ENDPATH**/ ?>
