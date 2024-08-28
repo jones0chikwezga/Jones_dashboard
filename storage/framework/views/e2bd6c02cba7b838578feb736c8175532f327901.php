@@ -250,64 +250,64 @@
                 <nav class="sidebar-nav">
                     <ul id="sidebarnav">
                         <li class="nav-devider"></li>
-                        <li class="nav-label"></li>
-                        <li> <a class="has-arrow  " href="#" aria-expanded="false"><i class="fa fa-tachometer"></i><span class="hide-menu">Home</span></a>
+                        <li class="nav-label">Home</li>
+                        <li> <a class="  " href="#" aria-expanded="false"><i class="fa fa-tachometer"></i><span class="hide-menu">Home</span></a>
                             
                         </li>
-                        <li> <a class="has-arrow  " href="#" aria-expanded="false"><i class="fa fa-users"></i><span class="hide-menu">Users</span></a>
+                        <li> <a class="  " href="#" aria-expanded="false"><i class="fa fa-users"></i><span class="hide-menu">Users</span></a>
                             
                         </li>
-                        <li> <a class="has-arrow  " href="#" aria-expanded="false"><i class="fa fa-file"></i><span class="hide-menu">Blogs</span></a>
+                        <li> <a class="  " href="#" aria-expanded="false"><i class="fa fa-file"></i><span class="hide-menu">Blogs</span></a>
                             
                         </li>
-                        <li> <a class="has-arrow  " href="#" aria-expanded="false"><i class="fas fa-briefcase"></i><span class="hide-menu">Job Application</span></a>
+                        <li> <a class="  " href="#" aria-expanded="false"><i class="fas fa-briefcase"></i><span class="hide-menu">Job Application</span></a>
                             
                         </li>
-                        <li> <a class="has-arrow  " href="#" aria-expanded="false"><i class="fa fa-hands-helping"></i><span class="hide-menu">Volunteering</span></a>
+                        <li> <a class="  " href="#" aria-expanded="false"><i class="fa fa-hands-helping"></i><span class="hide-menu">Volunteering</span></a>
                             
                         </li>
-                        <li> <a class="has-arrow  " href="#" aria-expanded="false"><i class="fa fa-envelope"></i><span class="hide-menu">Direct Messages</span></a>
+                        <li> <a class="  " href="#" aria-expanded="false"><i class="fa fa-envelope"></i><span class="hide-menu">Direct Messages</span></a>
                             
                         </li>
-                        <li> <a class="has-arrow  " href="#" aria-expanded="false"><i class="fa fa-comments"></i><span class="hide-menu">Contact-us Massages</span></a>
+                        <li> <a class="  " href="#" aria-expanded="false"><i class="fa fa-comments"></i><span class="hide-menu">Contact-us Massages</span></a>
                             
                         </li>
                         
-                        <li> <a class="has-arrow  " href="#" aria-expanded="false"><i class="fa fa-calendar"></i><span class="hide-menu">Events</span></a>
+                        <li> <a class="  " href="#" aria-expanded="false"><i class="fa fa-calendar"></i><span class="hide-menu">Events</span></a>
                             
                         </li>
-                        <li> <a class="has-arrow  " href="#" aria-expanded="false"><i class="fas fa-book"></i><span class="hide-menu">Resources</span></a>
+                        <li> <a class="  " href="#" aria-expanded="false"><i class="fas fa-book"></i><span class="hide-menu">Resources</span></a>
                         </li>
                         
-                    </li>
-                    <li> <a class="has-arrow  " href="#" aria-expanded="false"><i class="fas fa-briefcase"></i><span class="hide-menu">Vacancies</span></a>
+                        </li>
+                        <li> <a class="  " href="#" aria-expanded="false"><i class="fas fa-briefcase"></i><span class="hide-menu">Vacancies</span></a>
                         
                         
-                        <li> <a class="has-arrow  " href="#" aria-expanded="false"><i class="fas fa-image"></i><span class="hide-menu">Gallery</span></a>
+                        <li> <a class="  " href="#" aria-expanded="false"><i class="fas fa-image"></i><span class="hide-menu">Gallery</span></a>
                             
                         </li>
-                        <li> <a class="has-arrow  " href="#" aria-expanded="false"><i class="fas fa-quote-left"></i><span class="hide-menu">Testimonials</span></a>
+                        <li> <a class="  " href="#" aria-expanded="false"><i class="fas fa-quote-left"></i><span class="hide-menu">Testimonials</span></a>
                             
                         </li>
-                        <li> <a class="has-arrow  " href="#" aria-expanded="false"><i class="fas fa-project-diagram"></i><span class="hide-menu">Projects</span></a>
+                        <li> <a class="  " href="#" aria-expanded="false"><i class="fas fa-project-diagram"></i><span class="hide-menu">Projects</span></a>
                             
                         </li>
-                        <li> <a class="has-arrow  " href="#" aria-expanded="false"><i class="fas fa-handshake"></i><span class="hide-menu">Partiners</span></a>
+                        <li> <a class="  " href="#" aria-expanded="false"><i class="fas fa-handshake"></i><span class="hide-menu">Partiners</span></a>
                             
                         </li>
-                        <li> <a class="has-arrow  " href="#" aria-expanded="false"><i class="fas fa-share-alt"></i><span class="hide-menu">Social Media</span></a>
+                        <li> <a class="  " href="#" aria-expanded="false"><i class="fas fa-share-alt"></i><span class="hide-menu">Social Media</span></a>
                             
                         </li>
-                        <li> <a class="has-arrow  " href="#" aria-expanded="false"><i class="fas fa-users"></i><span class="hide-menu">Customers</span></a>
+                        <li> <a class="  " href="#" aria-expanded="false"><i class="fas fa-users"></i><span class="hide-menu">Customers</span></a>
                             
                         </li>
-                        <li> <a class="has-arrow  " href="#" aria-expanded="false"><i class="fas fa-info-circle"></i><span class="hide-menu">About</span></a>
+                        <li> <a class="  " href="#" aria-expanded="false"><i class="fas fa-info-circle"></i><span class="hide-menu">About</span></a>
                             
                         </li>
-                        <li> <a class="has-arrow  " href="#" aria-expanded="false"><i class="fas fa-cogs"></i><span class="hide-menu">Products/Services</span></a>
+                        <li> <a class="  " href="#" aria-expanded="false"><i class="fas fa-cogs"></i><span class="hide-menu">Products/Services</span></a>
                             
                         </li>
-                        <li> <a class="has-arrow  " href="#" aria-expanded="false"><i class="fas fa-gavel"></i><span class="hide-menu">Legal/Compliance</span></a>
+                        <li> <a class="  " href="#" aria-expanded="false"><i class="fas fa-gavel"></i><span class="hide-menu">Legal/Compliance</span></a>
                             
                         </li>
                         <li class="nav-label">Apps</li>
@@ -428,9 +428,9 @@
         <!-- Page wrapper  -->
         <div class="page-wrapper">
             <!-- Bread crumb -->
-            <div class="row page-titles">
+            <div  class="row page-titles">
                 <div class="col-md-5 align-self-center">
-                    <h3 class="text-primary">Dashboard</h3> </div>
+                    <h3 class="text-primar" >Dashboard</h3> </div>
                 <div class="col-md-7 align-self-center">
                     <ol class="breadcrumb">
                         <li class="breadcrumb-item"><a href="javascript:void(0)">Home</a></li>
@@ -484,9 +484,9 @@
                     </div>
                     <div class="col-md-3">
                         <div class="card p-30">
-                            <div class="media">
-                                <div class="media-left meida media-middle">
-                                    <span><i class="fa fa-calendar f-s-40 color-danger"></i></span>
+                            <div class="media" >
+                                <div class="media-left meida media-middle" style="color: #55c571;;" >
+                                    <span><i class="fa fa-calendar f-s-40 color-#dc3545"></i></span>
                                 </div>
                                 <div class="media-body media-text-right">
                                     <h2>847</h2>
@@ -807,7 +807,7 @@
                                                     <li>
                                                         <label>
 															<input type="checkbox"><i class="bg-primary"></i><span>Build an angular app</span>
-															<a href='#' class="ti-close"></a>
+															<a href='#' class="ti-close" style="color: #55c571;"></a>
 														</label>
                                                     </li>
                                                     <li>
